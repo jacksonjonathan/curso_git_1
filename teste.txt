@@ -1,2 +1,8 @@
 testando repo aula 12a
 atualização
+a
+b
+c
+d
+e
+f
